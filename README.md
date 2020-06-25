@@ -24,11 +24,11 @@ tkinter（GUI库）
 
 ## 页面展示
 
-![image-20200616174033567](/image-20200616174033567.png)
+![image-20200616174033567](https://github.com/trammels-zjx/ktv/blob/master/img/image-20200616174033567.png)
 
 **活跃度**
 
-![image-20200616174115091](/image-20200616174115091.png)
+![image-20200616174115091](https://github.com/trammels-zjx/ktv/blob/master/img/image-20200616174115091.png)
 
 
 
