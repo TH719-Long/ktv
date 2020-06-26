@@ -31,7 +31,6 @@ tkinter（GUI库）
 ![image-20200616174115091](https://github.com/trammels-zjx/ktv/blob/master/img/image-20200616174115091.png)
 
 
-
 ## 注意事项
 
 1. 本项目音乐文件路径为	D:\\音乐\\
